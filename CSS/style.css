@@ -1,0 +1,14 @@
+.specialImageSize{
+    width: 50vw;
+    height: 100%;
+}
+
+.card{
+    width: max-content;
+    justify-content: center;
+    
+}
+
+.navbar-dark{
+
+}
