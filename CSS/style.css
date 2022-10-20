@@ -10,10 +10,13 @@
 }
 
 .tux {
-    max-width: 25%;
-    height: auto;
+    width: 65%;
+    height: 325px;
     justify-content: right;
     margin-left: 5rem;
+}
+p.info{
+    font-size: 22px;
 }
 
 #card-text{
@@ -25,10 +28,10 @@
     height: auto;
 }
 
-.info {
+/* .info {
     margin-bottom: 5rem;
     padding-bottom: ;
-}
+} */
 /* .navbar-dark{
 
 } */
