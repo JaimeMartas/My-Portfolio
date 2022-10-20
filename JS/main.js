@@ -8,7 +8,7 @@
 //     rootMargin:
 // };
 
-// const appearOnScroll = new IntersectionObserver (function(entries,appearOnScroll)
+// const appearOnScroll = new IntersectionObserver (funct1qion(entries,appearOnScroll)
 // )   {
 //     entries,forEach(entry => {
 //         if (!entry.isIntersecting) {
