@@ -9,9 +9,29 @@
     
 }
 
-.navbar-dark{
-
+.tux {
+    max-width: 25%;
+    height: auto;
+    justify-content: right;
+    margin-left: 5rem;
 }
+
+#card-text{
+    float: left;
+}
+
+.resume {
+    justify-content: center;
+    height: auto;
+}
+
+.info {
+    margin-bottom: 5rem;
+    padding-bottom: ;
+}
+/* .navbar-dark{
+
+} */
 /* 
 .fade-in {
     opacity: 0;
